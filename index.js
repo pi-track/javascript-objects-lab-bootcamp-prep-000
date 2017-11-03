@@ -1,4 +1,4 @@
-recipes = {}
+var recipes = {}
 
 /*describe('Objects', function() {
   it('defines a `recipes` object', function() {

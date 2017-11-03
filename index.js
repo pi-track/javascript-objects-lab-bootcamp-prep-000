@@ -1,6 +1,4 @@
-function Objects() {
-  return recipes = {}
-}
+recipes = {}
 
 /*describe('Objects', function() {
   it('defines a `recipes` object', function() {

@@ -1,5 +1,5 @@
 function Objects() {
-  return var recipes = {}
+  return recipes = {}
 }
 
 /*describe('Objects', function() {
